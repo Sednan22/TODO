@@ -1,5 +1,6 @@
 # TODO
 
+- Read "Learning Go"
 - improve api hrk
 - Add log/slog to scripts/workers (fltBarg[done], mrkt)
 - Add transactions to db
